@@ -1,5 +1,7 @@
-# network-analysis-resources
+# Network Analysis Resources
 A curated list of awesome network analysis frameworks, libraries, courses, books and many more. 
+
+kumpulan sumber ini untuk mempermudah untuk mempelajari social network analysis, dengan bahasa indonesia yang mudah dipahami, selain itu juga terdapat dataset yang bisa dipraktekan. daftar sumber ini juga banyak menyediakan buku online dengan akses gratis yang bisa dibaca kapan saja.
 
 ## Table of Contents
 * **[Free Books](#free-books)**
